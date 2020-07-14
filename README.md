@@ -65,6 +65,12 @@ Now we have to create Resource, Method, Stage, and deploy our function
 
 ![ContactPage](https://github.com/nastyzera/Serverless-ContactForm-Using-AWS-Lambda-SES-And-API-Gateway/raw/master/Screenshots/contact.png)
 
-![Result](https://github.com/nastyzera/Serverless-ContactForm-Using-AWS-Lambda-SES-And-API-Gateway/raw/master/Screenshots/last.jpeg)
+![Result](https://github.com/nastyzera/Serverless-ContactForm-Using-AWS-Lambda-SES-And-API-Gateway/raw/master/Screenshots/last.png)
+
+### TODO
+1. Send Confirmation Email to users email
+
+
+### Maintained By : [Kunal Dongare](https://github.com/nastyzera)
 
 
