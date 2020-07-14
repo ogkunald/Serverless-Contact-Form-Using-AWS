@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-        <script>
-        function submitToAPI(e) {
+          function submitToAPI(e) {
                e.preventDefault();
                var name = $("#YOUR <NAME> INPUT ID").val();
                var email = $("#YOUR <EMAIL> INPUT ID").val();
@@ -48,10 +41,3 @@
           }
 
           }
-        </script>
-        <title>AWS Static Webpage</title>
-    </head>
-    <body>
-
-    </body>
-</html>
